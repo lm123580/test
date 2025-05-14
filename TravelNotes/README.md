@@ -16,7 +16,7 @@
 │  │      imagegaller.tsx    ---  游记详情页面的图像展示  
 │  │      searchbar.tsx      ---  游记搜索栏  
 │  │      _layout.tsx
-│  │
+│  │  
 │  ├─(person)                ---  个人信息展示有关页面  
 │  │      editavaster.tsx    ---  修改头像的对话框  
 │  │      editinfo.tsx       ---  修改个人信息页面  
