@@ -1,5 +1,8 @@
+#安装方式：  
+nmp install  
 
-重要文件说明 
+#重要文件说明：  
+  
 ├─app                       ----  前端页面放置目录  
 │  │  +not-found.tsx  
 │  │  _layout.tsx  
